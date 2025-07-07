@@ -1,0 +1,38 @@
+Loop:Repeated
+you have to implement your logic continuously
+
+Types of Loop
+1)Entry Control loop : for,while
+2)Exit Control loop : do while
+
+total
+1)for
+2)while
+3)do while
+4)for..in
+5) foreach
+
+1)
+for(initialization;condition;incre/decre)
+{
+	statements
+}
+
+2)
+initialization;
+
+while(condition)
+{
+	statements
+	incre/decre
+}
+
+
+
+
+
+
+
+
+
+
